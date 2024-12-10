@@ -37,14 +37,8 @@ It is recommended to use a virtual environment to install the required libraries
 #### On Windows:
 python -m venv env env\Scripts\activate pip install -r requirements.txt
 
-shell
-Copy code
-
 #### On macOS/Linux:
 python3 -m venv env source env/bin/activate pip install -r requirements.txt
-
-sql
-Copy code
 
 ### Running the App:
 Once the required libraries are installed, you can run the app using the following command:
