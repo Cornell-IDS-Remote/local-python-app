@@ -1,0 +1,15 @@
+# Ignore the temp directory
+temp/
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python bytecode files and __pycache__ directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Miscellaneous system files
+.DS_Store
+Thumbs.db
